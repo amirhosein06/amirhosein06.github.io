@@ -1,1 +1,94 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
+<link rel="icon" href="img/142418728.jpeg">
+    <title>amirhosein06</title>
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            flex-direction: column;
+            background-color: #1C2128;
+            font-family: Poppins;
+            box-sizing: border-box;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+        h1{
+            width: 100%;
+            margin: 100px;
+            text-align: center;
+            color: #ADBAC7;
+        }
+        .container{
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+        .link-box{
+            min-width: 70px;
+            max-width: 500px;
+            background-color: #2D333B;
+            box-shadow: 0px 0px 1px #333;
+            padding: 20px 20px 0px 20px;
+            border-radius: 8px;
+            margin: 15px;
+        }
+        .link-box a{
+            color: #ADBAC7;
+            text-decoration: none;
+            display: block;
+            margin: 15px 0 15px 0;
+            font-size: 20px;
+            cursor: pointer;
+        }
+        .link-box a:hover{
+            text-decoration: underline;
+        }
+        .link-box .img-box{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            height: 250px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 2px #333;
+        }
+        img{
+            scale: -0.4;
+            rotate: 180deg;
+        }
+        @media screen and (max-width: 1300px) {
+            .link-box{
+                max-width: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>My Repository List</h1>
+    <div class="container">
+      <div class="link-box">
+        <div class="img-box">
+          <img src="img/Screenshot 2024-01-03 at 16-49-20 Frontend Mentor Age calculator app.png" alt="">
+        </div>
+          <a href="https://github.com/amirhosein06/Age-calculator-app" target="_blank">Age-calculator-app</a>
+      </div>
+      <div class="link-box">
+        <div class="img-box">
+          <img src="img/Screenshot 2024-01-03 at 16-58-19 password generator.png" alt="">
+          </div>
+          <a href="https://github.com/amirhosein06/React-js-password-generator" target="_blank">React-js-password-generator</a>
+      </div>
+    </div>
+</body>
+</html>
