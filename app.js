@@ -1,5 +1,11 @@
 let projectـsource = [
   {
+    name:"Music Player App React",
+    src:"./img/music.png",
+    link1:"https://github.com/amirhosein06/Music-Player-App-React",
+    link2:"https://amirhosein06.github.io/Music-Player-App-React/"
+  },
+  {
     name:"Space Tourism Website",
     src:"./img/space.png",
     link1:"https://github.com/amirhosein06/space-tourism-website",
