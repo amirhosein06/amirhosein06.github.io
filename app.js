@@ -6,6 +6,12 @@ let projectـsource = [
     link2:"https://amirhosein06.github.io/Music-Player-App-React/"
   },
   {
+    name:"Java Script Calculator",
+    src:"./img/calculator.png",
+    link1:"https://github.com/amirhosein06/Java-Script-Calculator",
+    link2:"https://amirhosein06.github.io/Java-Script-Calculator/"
+  },
+  {
     name:"Space Tourism Website",
     src:"./img/space.png",
     link1:"https://github.com/amirhosein06/space-tourism-website",
