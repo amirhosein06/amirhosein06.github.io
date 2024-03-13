@@ -23,6 +23,12 @@ let projectـsource = [
     link1:"https://github.com/amirhosein06/Age-calculator-app",
     link2:"https://amirhosein06.github.io/Age-calculator-app/"
   },
+    {
+    name:"Persian Dot Counter",
+    src:"./img/dotcounter.png",
+    link1:"https://github.com/amirhosein06/Persian-Dot-Counter",
+    link2:"https://amirhosein06.github.io/Persian-Dot-Counter/"
+  },
   {
     name:"Password Generator",
     src:"./img/pass.png",
