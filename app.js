@@ -1,9 +1,15 @@
 let projectـsource = [
+    {
+    name:"React Todo List",
+    src:"./img/todo.png",
+    link1:"https://github.com/amirhosein06/React-Todo-List",
+    link2:"react-todo-list-sigma-gilt.vercel.app"
+  },
   {
     name:"Music Player App React",
     src:"./img/music.png",
     link1:"https://github.com/amirhosein06/Music-Player-App-React",
-    link2:"https://amirhosein06.github.io/Music-Player-App-React/"
+    link2:"music-player-app-react-ccuy.vercel.app/"
   },
   {
     name:"Java Script Calculator",
@@ -33,7 +39,7 @@ let projectـsource = [
     name:"Password Generator",
     src:"./img/pass.png",
     link1:"https://github.com/amirhosein06/React-js-password-generator",
-    link2:"https://amirhosein06.github.io/React-js-password-generator/"
+    link2:"https://react-js-password-generator-one.vercel.app/"
   }
 ];
 
